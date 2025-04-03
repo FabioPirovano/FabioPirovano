@@ -22,7 +22,7 @@ I'm a passionate **Data Scientist** who loves solving complex problems using mod
 ## 📫 How to Reach Me
 
 - **Email**: [fabiopirovano@cnr.it](mailto:fabiopirovano@cnr.it)
-- **LinkedIn**: [@your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- **LinkedIn**: [@Fabio Pirovano](https://www.linkedin.com/in/fabio-pirovano-8860a7223)
 ---
 
 ## 📈 GitHub Stats
