@@ -13,7 +13,7 @@ I'm a passionate **Data Scientist** who loves solving complex problems using mod
 
 ## 📚 Skills
 
-- **Programming Languages**: Python,R and SQL
+- **Programming Languages**: Python, R and SQL
 - **Technologies**: Scikit-learn, Pytorch, TensorFlow, Pandas, Numpy
 - **Tools**: Git, GitHub, Jupyter, VS Code
 
