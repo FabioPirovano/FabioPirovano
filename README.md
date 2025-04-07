@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Fabio Pirovano!
 
-I'm a passionate **Data Scientist** who loves solving complex problems using modern technologies. Always learning and seeking new ways to grow and improve.
+I'm a passionate **Data Scientist** who loves solving complex problems using modern technologies.
+Always learning and seeking new ways to grow and improve.
 
 ---
 
